@@ -1,58 +1,55 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Challenge Template
+# MERN Lab
 
-Use this template to structure your READMEs for diagnostics.
-
-Be sure to include a recent [`LICENSE`](LICENSE) and Markdown linter
-configuration ([`.remarkrc`](.remarkrc)). Also, include an appropriate
-`.gitignore`; these are usually found in specific technology templates, for
-example [js-template](https://www.github.com/ga-wdi-boston/js-template).
+Get ready to build your first MERN app! For this lab, your goal is to build a
+simple MERN app with Express on the back-end and React on the front-end. Your
+app should have one and only one model!
 
 ## Prerequisites
 
--   Topics with which developers should be familiar with.
--   Prerequisites are "just-in-time", so if I have a prerequisite that mentions
-    Sass, I would **not** need to include CSS as a prerequisite.
--   [Links to previous materials](https://www.github.com/ga-wdi-boston/example)
-    are often useful.
--   In a challenge, it is useful to link to reference material, such as talk
-    repositories.
+- Mongo, Mongoose, Express and Node
+- React, Components, State and Props
+- React Component Lifecycle Methods
+- React Router
+- Single-server and Multi-server MERN apps
 
 ## Instructions
 
-1.  Fork and clone this repository.
-1.  Change into the new directory.
-1.  Install dependencies.
-1.  Create and checkout a new branch to work on.
+1.  Create new repo(s).
 1.  Fulfill the listed requirements.
+1.  Post an issue on this repository with links to your repo(s).
 
-Starter code is available in [`lib/challenge.js`](lib/challenge.js). A pull
-request is not required, but it is necessary if you want a code review.
+Unlike most labs, for this one you submit your work by **posting an issue on this
+repository, instead of forking this repository and making a pull request**.
 
-You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
-related to [forking,
-cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone).
+Create a new repo or repos, depending on whether or not you're using the
+single-server or multi-server pattern. Complete the requirements below and post
+an issue on this repository linking to the relevant repo(s) under your GitHub
+account.
 
 ## Requirements
 
-Describe behavioral requirements as you'll be using them in tests. That is,
-list requirements in language that describes how the written code will be used,
-not how it will be written, with the exception of constraints you may wish to
-place on implementation. It's a good idea to include the below paragraph
-verbatim.
+Build a simple MERN app! Keep it very simple: only 1 model with full CRUD.
 
-You should be running `grunt nag` before diagnosing any bugs, since it finds
-some of the most common sources of errors. After `grunt nag` passes, you should
-run `grunt test` to run the included tests. Tests will tell you whether of not
-you've met these requirements.
+Your app should have a back-end build with Express that persists data to a
+MongoDB database using Mongoose. Your Express app should return JSON data to
+your React front-end.
+
+The front-end for your simple MERN app should be built with React. Use AJAX to
+get data from your Express back-end and pass the data through your app using
+state and props. Use React Router to build out separate 'views' for creating,
+editing, updating and deleting instances of your model.
+
+Stick to just 1 model and keep it simple. The purpose of this lab is to practice
+working with Express and React. Your goal should be to have full CRUD on one
+model with a React front-end and Express back-end.
 
 ## Bonus
 
-Bonuses are described after the requirements, if included. They should be worked
-on **only after** passing requirements.
-
-Sometimes, we ask questions that promote thinking critically about code.
+Add another model as a sub-document. Finish full CRUD on your first model before
+adding a subdocument. Make it so users can perform full CRUD on the
+sub-document.
 
 ## [License](LICENSE)
 
