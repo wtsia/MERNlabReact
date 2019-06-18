@@ -33,9 +33,9 @@ separate front and back ends, submit both links to the repo.
 
 For this lab, you may pair up with one other person. Since we haven't yet
 covered git workflows, you'll have to research the `git branch`, `git checkout`,
-and `git merge` commands and how to use them together. The Atlassian git
-tutorials](https://www.atlassian.com/git/tutorials) site is a great starting
-point, particularly the
+and `git merge` commands and how to use them together. The
+[Atlassian git tutorials](https://www.atlassian.com/git/tutorials) site is a
+great starting point, particularly the
 [Feature Branch Workflow Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 
 ## Requirements
