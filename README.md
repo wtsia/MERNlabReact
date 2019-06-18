@@ -23,7 +23,7 @@ app should have one and only one model!
 Unlike most labs, for this one you submit your work by **posting an issue on
 this repository, instead of forking this repository and making a pull request**.
 
-** DO NOT FORK THIS REPOSITORY **
+**DO NOT FORK THIS REPOSITORY**
 
 Create a new repo or repos, depending on whether or not you're using the
 single-server or multi-server pattern. Complete the requirements below and post
