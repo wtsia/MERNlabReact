@@ -36,7 +36,7 @@ covered git workflows, you'll have to research the `git branch`, `git checkout`,
 and `git merge` commands and how to use them together. The
 [Atlassian git tutorials](https://www.atlassian.com/git/tutorials) site is a
 great starting point, particularly the
-[Feature Branch Workflow Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+[Feature Branch Workflow Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow).
 
 ## Requirements
 
