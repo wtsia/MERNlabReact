@@ -12,24 +12,17 @@ app should have one and only one model!
 - React, Components, State and Props
 - React Component Lifecycle Methods
 - React Router
-- Single-server and Multi-server MERN apps
 
 ## Instructions
 
-1.  Create new repo(s).
+1.  Create 2 separate repos for your front-end and back-end code.
 1.  Fulfill the listed requirements.
-1.  Post an issue on this repository with links to your repo(s).
-
-Unlike most labs, for this one you submit your work by **posting an issue on
-this repository, instead of forking this repository and making a pull request**.
 
 **_DO NOT FORK THIS REPOSITORY_**
 
-Create a new repo or repos, depending on whether or not you're using the
-single-server or multi-server pattern. Complete the requirements below and post
-an issue on this repository linking to the relevant repo(s) under your GitHub
-account. If you choose to make a single server repo, post one link; if you make
-separate front and back ends, submit both links to the repo.
+Create the repos. Complete the requirements below and post
+an issue on this repository linking to the relevant front-end and back-end repo(s) under your GitHub
+account. 
 
 For this lab, you may pair up with one other person. Since we haven't yet
 covered git workflows, you'll have to research the `git branch`, `git checkout`,
