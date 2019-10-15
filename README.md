@@ -6,6 +6,19 @@ Get ready to build your first MERN app! For this lab, your goal is to build a
 simple MERN app with Express on the back-end and React on the front-end. Your
 app should have one and only one model!
 
+**This is an open-ended, pair lab!**
+
+
+## Pairs
+
+You will be working in pairs. We will leave the group selection up to you. Feel free find a partner after the lab has been introduced.
+
+Pair programming is a common industry practice where two developers work on the same project together. Typically, one person is the "driver" and the other is the "navigator". Throughout the lab you must switch roles.
+
+Here are two explanations of pair-programming, it's benefits and how to do it:
+1. [Pair Programming Considered Extremely Beneficial](https://content.pivotal.io/blog/pair-programming-considered-extremely-beneficial)
+2. [Agile Best Practices: Pair Programming](https://www.versionone.com/agile-101/agile-software-programming-best-practices/pair-programming/)
+
 ## Prerequisites
 
 - Mongo, Mongoose, Express and Node
