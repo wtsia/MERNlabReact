@@ -54,20 +54,16 @@ great starting point, particularly the
 
 ## Requirements
 
-Build a simple MERN app! Keep it very simple: only 1 model with full CRUD.
+Build a simple MERN app! 
 
-Your app should have a back-end build with Express that persists data to a
-MongoDB database using Mongoose. Your Express app should return JSON data to
-your React front-end.
+Your app should have a front-end built with React.
 
-The front-end for your simple MERN app should be built with React. Use AJAX to
-get data from your Express back-end and pass the data through your app using
+**OPTIONAL**:Build a back-end with Express that persists 
+data to a MongoDB database using Mongoose. Your Express app should return JSON data to
+your React front-end. Use AJAX to get data from your Express back-end and pass the data through your app using
 state and props. Use React Router to build out separate 'views' for creating,
-editing, updating and deleting instances of your model.
-
-Stick to just 1 model and keep it simple. The purpose of this lab is to practice
-working with Express and React. Your goal should be to have full CRUD on one
-model with a React front-end and Express back-end.
+editing, updating and deleting instances of your model. Stick to just 1 model and 
+keep it simple. 
 
 ## Bonus
 
