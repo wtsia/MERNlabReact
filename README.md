@@ -11,7 +11,8 @@ moving on to the back-end only if you have time. This is a good opportunity to r
 concepts we've learned so far in React and apply them to a mini-project.** 
 
 **We will have each group present their work at 5pm ET today - don't worry about having a 
-complete project to present by then! We just want to see your progress.**
+complete project to present by then! We just want to see your progress. Please keep your
+presentation to less than 3 minutes**
 
 **This is an open-ended, pair lab!**
 
