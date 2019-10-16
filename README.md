@@ -29,10 +29,10 @@ Here are two explanations of pair-programming, it's benefits and how to do it:
 
 ## Prerequisites
 
-- Mongo, Mongoose, Express and Node
 - React, Components, State and Props
 - React Component Lifecycle Methods
 - React Router
+- Mongo, Mongoose, Express and Node
 
 ## Instructions
 
