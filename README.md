@@ -3,8 +3,15 @@
 # MERN Lab
 
 Get ready to build your first MERN app! For this lab, your goal is to build a
-simple MERN app with Express on the back-end and React on the front-end. Your
-app should have one and only one model!
+simple MERN app with React on the front-end and Express on the back-end (optional). Your
+app should have one and only one model if you choose to build a back-end!
+
+**For this lab, please spend the bulk of your time on building the front-end/React first, 
+moving on to the back-end only if you have time. This is a good opportunity to review and revisit 
+concepts we've learned so far in React and apply them to a mini-project.** 
+
+**We will have each group present their work at 5pm ET today - don't worry about having a 
+complete project to present by then! We just want to see your progress.**
 
 **This is an open-ended, pair lab!**
 
