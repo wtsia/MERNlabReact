@@ -80,3 +80,8 @@ Deploy your app. Use heroku for the backend and surge for the frontend.
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
 1.  All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
+
+
+**GROUP MARKUP**
+
+We've made a podcast app which plays podcasts

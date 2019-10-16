@@ -1,0 +1,9 @@
+/* do we need this? */
+p a{
+  text-decoration:none;
+  color:black;
+}
+
+p a:hover{
+  color:blue;
+}
